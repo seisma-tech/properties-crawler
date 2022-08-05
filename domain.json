@@ -1,0 +1,22 @@
+[
+{"price": "$950,000", "location": "34 Cowper Street, Footscray VIC 3011", "bed_num": "2", "bath_num": "2", "car_park_num": "1"},
+{"price": "$1,500,000 - $1,600,000", "location": "262 Waterdale Road Ivanhoe VIC 3079", "bed_num": "4", "bath_num": "3", "car_park_num": "2", "space": "264m\u00b2"},
+{"price": "$1,200,000 to $1,250,000", "location": "1/123 Millers Road, Altona North VIC 3025", "bed_num": "3", "bath_num": "3", "car_park_num": "2", "space": "264m\u00b2"},
+{"price": "$925,000", "location": "13/147 Princes Street Flemington VIC 3031", "bed_num": "2", "bath_num": "1", "car_park_num": "2", "space": "264m\u00b2"},
+{"price": "ESR - $875,000-$935,000", "location": "1-3/35 Radstock Avenue Highton VIC 3216", "bed_num": "3", "bath_num": "3", "car_park_num": "1", "space": "264m\u00b2"},
+{"price": "$2,400,000", "location": "Townhome 1, Ivanhoe East VIC 3079", "bed_num": "3", "bath_num": "3", "car_park_num": "2", "space": "264m\u00b2"},
+{"price": "$875,000 - $925,000", "location": "1-3/28 Clifford Street Highton VIC 3216", "bed_num": "3", "bath_num": "2", "car_park_num": "2", "space": "264m\u00b2"},
+{"price": "Contact Agent", "location": "1, 3 & 4/9 Parsons Avenue Springvale VIC 3171", "bed_num": "3", "bath_num": "2", "car_park_num": "2", "space": "264m\u00b2"},
+{"price": "Contact Agent", "location": "2/13 Constitution Rise Berwick VIC 3806", "bed_num": "4", "bath_num": "2", "car_park_num": "2", "space": "264m\u00b2"},
+{"price": "$1,300,000 - $1,400,000", "location": "2 & 3/262 Waterdale Road Ivanhoe VIC 3079", "bed_num": "4", "bath_num": "3", "car_park_num": "2", "space": "206m\u00b2"},
+{"price": "Private Sale from $720,000", "location": "1-3/97 Outhwaite Road Heidelberg Heights VIC 3081", "bed_num": "3", "bath_num": "2", "car_park_num": "2", "space": "206m\u00b2"},
+{"price": "$1,800,000 - $1,900,000", "location": "24 Coling Avenue Carnegie VIC 3163", "bed_num": "4", "bath_num": "3", "car_park_num": "2", "space": "206m\u00b2"},
+{"price": "$1,890,000 - $2,070,000", "location": "329 Inkerman Street Balaclava VIC 3183", "bed_num": "4", "bath_num": "4", "car_park_num": "2", "space": "206m\u00b2"},
+{"price": "$1,955,000", "location": "6B Khartoum Street, Richmond VIC 3121", "bed_num": "3", "bath_num": "3", "car_park_num": "1", "space": "206m\u00b2"},
+{"price": "from $659,400", "location": "Lot 2175 Corner Soldiers Road & Chase Boulevard, Berwick VIC 3806", "bed_num": "4", "bath_num": "2", "car_park_num": "2", "space": "168m\u00b2"},
+{"price": "Contact Agent", "location": "19/663 Malvern Road, Toorak VIC 3142", "bed_num": "3", "bath_num": "2", "car_park_num": "2", "space": "168m\u00b2"},
+{"price": "$630,000", "location": "212/360 McDonalds Road, South Morang VIC 3752", "bed_num": "3", "bath_num": "2", "car_park_num": "2", "space": "147m\u00b2"},
+{"price": "$699,000", "location": "67 Phoenix Road, Altona North VIC 3025", "bed_num": "2", "bath_num": "2", "car_park_num": "1", "space": "147m\u00b2"},
+{"price": "Contact Agent", "location": "Lot 170 Coverall Street, Broadmeadows VIC 3047", "bed_num": "3", "bath_num": "2", "car_park_num": "2", "space": "147m\u00b2"},
+{"price": "From $624,000", "location": "Braybrook VIC 3019", "bed_num": "2", "bath_num": "2", "car_park_num": "1", "space": "147m\u00b2"}
+]
